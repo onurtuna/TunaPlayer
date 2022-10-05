@@ -1,0 +1,11 @@
+framework module TunaPlayer {
+  umbrella header "TunaPlayer.h"
+
+  export *
+  module * { export * }
+}
+
+module TunaPlayer.Swift {
+    header "TunaPlayer-Swift.h"
+    requires objc
+}

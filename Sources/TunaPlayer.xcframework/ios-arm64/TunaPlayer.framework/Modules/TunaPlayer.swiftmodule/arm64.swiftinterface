@@ -1,0 +1,24 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-module-flags: -target arm64-apple-ios15.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name TunaPlayer
+import AVFoundation
+import AVKit
+import Foundation
+import Swift
+@_exported import TunaPlayer
+import UIKit
+import _Concurrency
+final public class TunaPlayer {
+  public init()
+  final public func setCertificateUrl(_ url: Swift.String)
+  final public func setCertificateUrl(_ url: Foundation.URL)
+  final public func setCertificateData(_ data: Foundation.Data)
+  final public func setLicenseUrl(_ url: Swift.String)
+  final public func setLicenseUrl(_ url: Foundation.URL)
+  final public func setUrl(_ url: Swift.String)
+  final public func setUrl(_ url: Foundation.URL)
+  final public func createPlayer(onCreation: @escaping (() -> Swift.Void))
+  final public func getPlayer() -> UIKit.UIView
+  final public func play()
+  @objc deinit
+}
