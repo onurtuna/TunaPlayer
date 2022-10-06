@@ -1,22 +1,17 @@
 <a name="readme-top"></a>
-
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+<div align="center">
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/onurtuna/TunaPlayer">
-    <img src="images/player-logo.png" alt="Logo" width="80" height="80">
+    <img src="Doc/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Tuna Player</h3>
 
   <p align="center">
-    A lightweight iOS video and audio Player with DRM support.
-    <br />
-    <a href="https://github.com/onurtuna/TunaPlayer"><strong>Explore the docs »</strong></a>
+    A video and audio player for iOS with DRM support.
     <br />
     <br />
     <a href="https://github.com/onurtuna/TunaPlayer">View Demo</a>
@@ -24,6 +19,8 @@
     <a href="https://github.com/onurtuna/TunaPlayer/issues">Report Bug</a>
     ·
     <a href="https://github.com/onurtuna/TunaPlayer/issues">Request Feature</a>
+    <br />
+    <br />
   </p>
 </div>
 
@@ -54,18 +51,19 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+<!--
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+-->
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Tuna Player is an easy to use video player supports DRM. The purpose of the project is to simplify the development process of the video parts for the iOS apps which do not have video-first properties.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Features:
+* HLS video and audio streaming
+* Control Bar
+* Digital Rights Management
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
