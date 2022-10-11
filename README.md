@@ -82,7 +82,7 @@ The backend requirements for DRM
 * The license server should accept body keys as "spc" and "assetid".
 * The response from the license server should have the key "ckc".
 
-### Installation
+## Installation
 
 * SPM
 
