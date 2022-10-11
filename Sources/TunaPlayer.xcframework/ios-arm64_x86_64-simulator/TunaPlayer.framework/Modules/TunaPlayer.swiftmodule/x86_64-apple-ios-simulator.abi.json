@@ -1,0 +1,535 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TunaPlayer",
+        "printedName": "TunaPlayer",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TunaPlayer",
+                "printedName": "TunaPlayer.TunaPlayer",
+                "usr": "s:10TunaPlayerAAC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10TunaPlayerAACABycfc",
+            "mangledName": "$s10TunaPlayerAACABycfc",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "setCertificateUrl",
+            "printedName": "setCertificateUrl(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC17setCertificateUrlyySSF",
+            "mangledName": "$s10TunaPlayerAAC17setCertificateUrlyySSF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCertificateUrl",
+            "printedName": "setCertificateUrl(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC17setCertificateUrlyy10Foundation3URLVF",
+            "mangledName": "$s10TunaPlayerAAC17setCertificateUrlyy10Foundation3URLVF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setCertificateData",
+            "printedName": "setCertificateData(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC18setCertificateDatayy10Foundation0E0VF",
+            "mangledName": "$s10TunaPlayerAAC18setCertificateDatayy10Foundation0E0VF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setLicenseUrl",
+            "printedName": "setLicenseUrl(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC13setLicenseUrlyySSF",
+            "mangledName": "$s10TunaPlayerAAC13setLicenseUrlyySSF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setLicenseUrl",
+            "printedName": "setLicenseUrl(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC13setLicenseUrlyy10Foundation3URLVF",
+            "mangledName": "$s10TunaPlayerAAC13setLicenseUrlyy10Foundation3URLVF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setControlBar",
+            "printedName": "setControlBar(enabled:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC13setControlBar7enabledySb_tF",
+            "mangledName": "$s10TunaPlayerAAC13setControlBar7enabledySb_tF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setUrl",
+            "printedName": "setUrl(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC6setUrlyySSF",
+            "mangledName": "$s10TunaPlayerAAC6setUrlyySSF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setUrl",
+            "printedName": "setUrl(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC6setUrlyy10Foundation3URLVF",
+            "mangledName": "$s10TunaPlayerAAC6setUrlyy10Foundation3URLVF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "createPlayer",
+            "printedName": "createPlayer(onCreation:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC06createB010onCreationyyyc_tF",
+            "mangledName": "$s10TunaPlayerAAC06createB010onCreationyyyc_tF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getPlayer",
+            "printedName": "getPlayer()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIView",
+                "printedName": "UIKit.UIView",
+                "usr": "c:objc(cs)UIView"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC03getB0So6UIViewCyF",
+            "mangledName": "$s10TunaPlayerAAC03getB0So6UIViewCyF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "play",
+            "printedName": "play()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10TunaPlayerAAC4playyyF",
+            "mangledName": "$s10TunaPlayerAAC4playyyF",
+            "moduleName": "TunaPlayer",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10TunaPlayerAAC",
+        "mangledName": "$s10TunaPlayerAAC",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "AccessControl",
+          "Final"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TunaPlayer",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/DRM\/TunaDrmResourceLoader.swift",
+      "kind": "StringLiteral",
+      "offset": 228,
+      "length": 26,
+      "value": "\"tuna.drm.resource.loader\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
+      "kind": "StringLiteral",
+      "offset": 520,
+      "length": 10,
+      "value": "\"OnurTuna\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
+      "kind": "BooleanLiteral",
+      "offset": 568,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
+      "kind": "IntegerLiteral",
+      "offset": 618,
+      "length": 3,
+      "value": "720"
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
+      "kind": "IntegerLiteral",
+      "offset": 624,
+      "length": 4,
+      "value": "1280"
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
+      "kind": "StringLiteral",
+      "offset": 770,
+      "length": 21,
+      "value": "\"tuna.fairplay.queue\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/DRM\/TunaDRMManager.swift",
+      "kind": "StringLiteral",
+      "offset": 189,
+      "length": 16,
+      "value": "\"tuna.drm.queue\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/Event\/VideoEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 195,
+      "length": 16,
+      "value": "\"Video is ready\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/Event\/VideoEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 18,
+      "value": "\"Video is playing\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/Event\/VideoEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 17,
+      "value": "\"Video is paused\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/Event\/VideoEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 195,
+      "length": 16,
+      "value": "\"Video is ready\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/Event\/VideoEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 18,
+      "value": "\"Video is playing\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/Event\/VideoEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 282,
+      "length": 17,
+      "value": "\"Video is paused\""
+    }
+  ]
+}

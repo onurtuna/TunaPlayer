@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TunaPlayer-Swift.h</key>
 		<data>
-		hFkDxgm8h+lgY0w7Ieg5Nbaun0Y=
+		/5rRK5mfVQ4nQCiqw8Sq1tU5mR8=
 		</data>
 		<key>Headers/TunaPlayer.h</key>
 		<data>
@@ -14,39 +14,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		fv7GptucL0FxvyBNLx23TpWUodw=
+		yj/duq3kQoNHNpxwxXeyvRuqvT8=
+		</data>
+		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		Kh4js6WvG0C2Ju5kBJnerd4c3XA=
+		</data>
+		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		D3g5ZyuHXmlyw5IVgu3ZnYdeUE4=
 		</data>
 		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		cQBDxsOluoeXx0E3oR9y1CZUKBo=
+		meG4BjmppY3Iz3loZFhc1yFYzsw=
 		</data>
 		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		MDR+Q44eor+RT2VR2Iv29NaMzB4=
+		D3g5ZyuHXmlyw5IVgu3ZnYdeUE4=
 		</data>
 		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gRwrSptoSWrXoWC5Cvcs1GYxVQs=
-		</data>
-		<key>Modules/TunaPlayer.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		cQBDxsOluoeXx0E3oR9y1CZUKBo=
-		</data>
-		<key>Modules/TunaPlayer.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		MDR+Q44eor+RT2VR2Iv29NaMzB4=
-		</data>
-		<key>Modules/TunaPlayer.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		gRwrSptoSWrXoWC5Cvcs1GYxVQs=
+		VKQQ1gcZ+1liAEcT/j1iOY8JY0U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		SGWgqtjwCDjgzNCeKlso/82hS3g=
+		eKmW3PNC/v1NfhDraWbkoz5VLAI=
 		</data>
 		<key>VodControlBar.nib</key>
 		<data>
-		PtRBkWyKm9ZBXaPQruxvMWzTkrA=
+		ES50+6a7rqDyjddi4U53CuKljqo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kb9MghaFUlkiJ8F6ewR+esKXDQXV5Iyj5rXG06IpqM0=
+			Q1OYF2TKzC7Q9XLSO8TTs7AfFeWHmuk7uMYRSkCs+y8=
 			</data>
 		</dict>
 		<key>Headers/TunaPlayer.h</key>
@@ -65,60 +61,53 @@
 			JNKT6mHiEPR7FSyiVGrQeSDFBYm8NYpxuBakK41GhTs=
 			</data>
 		</dict>
+		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OJbG+8Y8FxC+YceSlJDj5R6JiOt9vhGd74QP+nyyzvY=
+			</data>
+		</dict>
+		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WpEH4PamWYKLU6Z3j4rJUeA+rJNptpCsGcJJjET2RtM=
+			</data>
+		</dict>
 		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jo4q6joLYwtiIqY9/R8S4FyAO30fy++9LcIqk/hvlAo=
+			ssY+HwJVhUak+0cVpAL4wTmz8yvFcLlOFasC9hr8QEs=
 			</data>
 		</dict>
 		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NjprYo1u1OkW7XU7t9P33zaib3c7QOKeVpHdQ96H9f0=
+			WpEH4PamWYKLU6Z3j4rJUeA+rJNptpCsGcJJjET2RtM=
 			</data>
 		</dict>
 		<key>Modules/TunaPlayer.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KxkZVZuJ2I6uM0FDk3AoCQjMY30WWrJj4j92FH+1N9Y=
-			</data>
-		</dict>
-		<key>Modules/TunaPlayer.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Jo4q6joLYwtiIqY9/R8S4FyAO30fy++9LcIqk/hvlAo=
-			</data>
-		</dict>
-		<key>Modules/TunaPlayer.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NjprYo1u1OkW7XU7t9P33zaib3c7QOKeVpHdQ96H9f0=
-			</data>
-		</dict>
-		<key>Modules/TunaPlayer.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KxkZVZuJ2I6uM0FDk3AoCQjMY30WWrJj4j92FH+1N9Y=
+			jEtSNzZpdwa5jGL+Q45pZaADaHNpJpKXgb1hvZJP8fk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nbgMC4nFB9Iukyo5aiumaJEWL3eVw+BfFOVFUzV4r2A=
+			qPdmlHXiouWFdcLyWkHsq9nYz1rf0dd6wuBvUUWSJZQ=
 			</data>
 		</dict>
 		<key>VodControlBar.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6TdwzIKbiQgBVCHzU8fNqFfwo8qcfY7az0A/cgwo0NM=
+			tfvvbxmxUT7rEJLipLznazjno5iymMF0EV9k+vzC95g=
 			</data>
 		</dict>
 	</dict>

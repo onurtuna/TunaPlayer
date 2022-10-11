@@ -6,6 +6,6 @@ framework module TunaPlayer {
 }
 
 module TunaPlayer.Swift {
-    header "TunaPlayer-Swift.h"
-    requires objc
+  header "TunaPlayer-Swift.h"
+  requires objc
 }
