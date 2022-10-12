@@ -18,8 +18,8 @@ final public class TunaPlayer {
   final public func setLicenseUrl(_ url: Swift.String)
   final public func setLicenseUrl(_ url: Foundation.URL)
   final public func setControlBar(enabled: Swift.Bool)
-  final public func setUrl(_ url: Swift.String)
-  final public func setUrl(_ url: Foundation.URL)
+  final public func setUrl(_ url: Swift.String, completion: @escaping (() -> Swift.Void))
+  final public func setUrl(_ url: Foundation.URL, completion: @escaping (() -> Swift.Void))
   final public func createPlayer(onCreation: @escaping (() -> Swift.Void))
   final public func getPlayer() -> UIKit.UIView
   final public func play()

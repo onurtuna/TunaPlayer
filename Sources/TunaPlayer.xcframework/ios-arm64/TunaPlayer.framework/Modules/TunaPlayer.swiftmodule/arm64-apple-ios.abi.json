@@ -244,7 +244,7 @@
           {
             "kind": "Function",
             "name": "setUrl",
-            "printedName": "setUrl(_:)",
+            "printedName": "setUrl(_:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -256,11 +256,28 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:10TunaPlayerAAC6setUrlyySSF",
-            "mangledName": "$s10TunaPlayerAAC6setUrlyySSF",
+            "usr": "s:10TunaPlayerAAC6setUrl_10completionySS_yyctF",
+            "mangledName": "$s10TunaPlayerAAC6setUrl_10completionySS_yyctF",
             "moduleName": "TunaPlayer",
             "declAttributes": [
               "Final",
@@ -271,7 +288,7 @@
           {
             "kind": "Function",
             "name": "setUrl",
-            "printedName": "setUrl(_:)",
+            "printedName": "setUrl(_:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -283,11 +300,28 @@
                 "name": "URL",
                 "printedName": "Foundation.URL",
                 "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "() -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:10TunaPlayerAAC6setUrlyy10Foundation3URLVF",
-            "mangledName": "$s10TunaPlayerAAC6setUrlyy10Foundation3URLVF",
+            "usr": "s:10TunaPlayerAAC6setUrl_10completiony10Foundation3URLV_yyctF",
+            "mangledName": "$s10TunaPlayerAAC6setUrl_10completiony10Foundation3URLV_yyctF",
             "moduleName": "TunaPlayer",
             "declAttributes": [
               "Final",
@@ -457,28 +491,28 @@
     {
       "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
       "kind": "BooleanLiteral",
-      "offset": 568,
+      "offset": 632,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
       "kind": "IntegerLiteral",
-      "offset": 618,
+      "offset": 682,
       "length": 3,
       "value": "720"
     },
     {
       "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
       "kind": "IntegerLiteral",
-      "offset": 624,
+      "offset": 688,
       "length": 4,
       "value": "1280"
     },
     {
       "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/UI\/TunaPlayerUi.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 834,
       "length": 21,
       "value": "\"tuna.fairplay.queue\""
     },
@@ -530,6 +564,13 @@
       "offset": 282,
       "length": 17,
       "value": "\"Video is paused\""
+    },
+    {
+      "filePath": "\/Users\/onurtuna\/Documents\/Onur\/TunaPlayerDevelopment\/TunaPlayer\/Proxy\/HLSCachingReverseProxyServer.swift",
+      "kind": "StringLiteral",
+      "offset": 214,
+      "length": 20,
+      "value": "\"__hls_original_url\""
     }
   ]
 }

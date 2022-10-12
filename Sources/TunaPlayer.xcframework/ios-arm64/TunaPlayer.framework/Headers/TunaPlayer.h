@@ -15,4 +15,7 @@ FOUNDATION_EXPORT const unsigned char TunaPlayerVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <TunaPlayer/PublicHeader.h>
 
-
+#import <TunaPlayer/GCDWebServer.h>
+#import <TunaPlayer/GCDWebServerDataResponse.h>
+#import <TunaPlayer/GCDWebServerErrorResponse.h>
+#import <TunaPlayer/PINCache.h>
