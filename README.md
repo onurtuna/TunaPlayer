@@ -36,6 +36,7 @@ Features:
 * HLS video and audio streaming
 * Control Bar
 * Digital Rights Management
+* Reverse Proxy and Caching
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
